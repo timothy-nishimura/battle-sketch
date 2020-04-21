@@ -1,6 +1,8 @@
 # BattleSketch #
 ### A Battleship Game for Sketch ###
 
+![](https://github.com/timothy-nishimura/battle-sketch/blob/master/BattleSketch%20WFH%201.0.png)
+
 ## Overview ##
 
 It's 2020, and the WFH (war from home) has moved to the high seas. Take on your fellow designers over a Zoom call with everyone's favorite grid based maritime pastime, BattleSketch!
